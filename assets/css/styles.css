@@ -345,6 +345,10 @@ img{
   transition: .3s;
 }
 
+.work__link-name{
+  color: #fff;
+}
+
 .work__img:hover .work__link{
   bottom: 0;
 }
