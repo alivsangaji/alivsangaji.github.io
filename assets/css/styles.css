@@ -349,7 +349,6 @@ img{
   bottom: 0;
 }
 
-
 /* ===== CONTACT =====*/
 .contact__input{
   width: 100%;
@@ -444,7 +443,7 @@ img{
   }
   .home__img{
     width: 500px;
-    bottom: 5%;
+    bottom: 15%;
   }
 
   .about__container, .skills__container{
